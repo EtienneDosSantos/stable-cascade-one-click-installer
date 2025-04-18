@@ -22,7 +22,7 @@ onnx2torch>=1.5.13
 onnxruntime>=1.16.3
 opencv-python>=4.8.1.78
 peft
-torch==2.2.1+cu121
+torch==2.6.0
 torchtools @ git+https://github.com/pabloppp/pytorch-tools
 torchvision==0.17.1+cu121
 tqdm>=4.66.1
